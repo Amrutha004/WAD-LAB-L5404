@@ -1,0 +1,32 @@
+h1{
+	color: purple;
+    font-family:sans-serif  ;
+}
+h2{
+	color: red;
+	font-family: cursive;
+}
+h4{
+	color: chocolate;
+	font-family: fantasy;
+}
+h5{
+	color: purple;
+	font-family: unset;
+}
+td{
+	color: blue;
+	font-style: italic;
+}
+th{
+	color: orange;
+	font-family: initial;
+}
+u{
+	color: forestgreen;
+	font-family: cursive;
+}
+h3{
+	color: brown;
+	font-family: serif;
+}

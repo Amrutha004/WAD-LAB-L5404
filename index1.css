@@ -1,0 +1,22 @@
+table{
+	border-style:dashed ;
+	border-width: 6px;
+}
+th{
+	 color: deeppink;
+	font-family: fantasy;
+}
+td{
+    color: orange;
+    font-family: sans-serif;
+}
+h1{
+	color: orangered;
+	font-family: monospace;
+}
+h3{
+	color: green;
+}
+h2{
+	color: cornflowerblue;
+}

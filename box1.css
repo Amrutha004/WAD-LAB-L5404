@@ -1,0 +1,64 @@
+h1{
+	margin-top: 100px;
+	margin-right: 20px;
+	border-style: double;
+	border-color: chocolate;
+	border-width: 15px;
+	background-color: deepskyblue;
+}
+h2{
+	margin-down: 200px;
+	margin-left: 30px;
+	margin-right: 50px;
+	border-style:outset;
+	border-color: darkorange;
+	border-width: 20px;
+	background-color: cyan;
+
+}
+h3{
+	margin-top: 50px;
+	margin-right: 700px;
+	margin-left: 600px;
+	border-style: groove;
+	border-color: black;
+	border-width: 5px;
+	background-color: aqua;
+}
+h4{
+	margin-top: 30px;
+	margin-right:500px;
+	margin-left: 400px;
+	border-style: dashed;
+	border-color: blueviolet;
+	border-width: 5px;
+	background-color: pink;
+}
+h5{
+	margin-top: 50px;
+	margin-right: 200px;
+	margin-left: 300px;
+	border-style: dotted;
+	border-color: indigo;
+	border-width: 5px;
+	background-color: cyan;
+}
+
+
+marquee{
+	font-family:cursive;
+	font-size: 50px;
+	color: pink;
+	margin-top: 100px;
+	margin-right: 30px;
+	background-image: url("birds.jpg");
+	width: 1500px;
+	height: 200px;
+	background-repeat: repeat;
+}
+p{
+	background-image: url("pandas1.jpg");
+	width: 1500px;
+	height: 200px;
+	background-repeat: no-repeat;
+}
